@@ -13,9 +13,6 @@
 4. Underneath that, there will be a map with the directions and live traffic.
 5. Finally, there is a third map that you can access to look around for sites and attractions.
 
-
-### [Live Site](https://tgheadle1371.github.io/TriviaGame/)
-
 ## Technology Used
 1. HTML5
 2. CSS3
