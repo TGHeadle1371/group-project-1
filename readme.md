@@ -1,6 +1,6 @@
 # Adventure Advisors
 
-### - [Live Site](https://raynamcginnis.github.io/group-project-1/)
+### [Live Site](https://raynamcginnis.github.io/group-project-1/)
 
 - Find out live information regarding trips you wish to take!
 - Pulling from Weather and Google Map APIs
@@ -26,7 +26,7 @@
 7. [Google Fonts](https://fonts.google.com/)
 8. [Firebase](https://firebase.google.com/)
 9. [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
-10.[Open Weather Maps API](https://openweathermap.org/api/)
+10. [Open Weather Maps API](https://openweathermap.org/api/)
 
 ![Image of Webpage](/assets/images/pageScreenshot.png "Game Page")
 
