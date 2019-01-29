@@ -25,8 +25,6 @@
 9. [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
 10. [Open Weather Maps API](https://openweathermap.org/api/)
 
-![Image of Webpage](/assets/images/pageScreenshot.png "Game Page")
-
 ### Contributors
 - Autumn
 - Rayna
